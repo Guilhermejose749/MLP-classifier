@@ -1,2 +1,2 @@
 # MLP-classifier-Pytorch
-Making a MLP in pytorch
+Making a MLP in numpy
